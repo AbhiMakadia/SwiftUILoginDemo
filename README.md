@@ -8,7 +8,10 @@ Includes:
 - Gradient Layer
 - @State and @Binding implementation flow.
 - Login Validations
-- Reusibility code
+- code Reusibility
+- VStack
+- HStack
+- ZStack etc...
 
 Preview:
 ---------------------------
